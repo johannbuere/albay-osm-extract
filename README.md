@@ -55,19 +55,6 @@ This will generate `albay.osm.pbf` clipped to the Albay province boundary.
 
 ---
 
-## 📁 Repository Structure
-
-```
-albay-osm-extract/
-├── Albay.poly
-├── albay.osm.pbf
-├── README.md
-└── scripts/
-    └── extract_albay.sh
-```
-
----
-
 ## 📜 Source & License
 
 - **OSM Data**: Extracted from [OpenStreetMap](https://www.openstreetmap.org).  
@@ -76,12 +63,4 @@ albay-osm-extract/
 
 ---
 
-## 🏷️ Releases
 
-Each dataset snapshot is tagged and released for reproducibility.  
-For example:  
-- `v2025-08-18` — Initial release containing Albay boundary and OSM extract.  
-
-You can find releases under the **[Releases section](../../releases)** of this repository.  
-
----
