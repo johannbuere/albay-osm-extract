@@ -9,7 +9,6 @@ It includes both the polygon boundary file and a pre-extracted `.osm.pbf` datase
 
 - `Albay.poly` — Polygon file defining the administrative boundary of Albay.  
 - `albay.osm.pbf` — OSM extract (PBF format) clipped to the Albay boundary.  
-- `scripts/extract_albay.sh` — Shell script to regenerate the extract from the full Philippines dataset.  
 
 ---
 
